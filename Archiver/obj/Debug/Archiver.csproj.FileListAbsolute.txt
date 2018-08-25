@@ -1,0 +1,58 @@
+C:\Users\Admin\YandexDisk\3k\OOP\CourseWork\Archiver\Archiver\bin\Debug\Archiver.exe.config
+C:\Users\Admin\YandexDisk\3k\OOP\CourseWork\Archiver\Archiver\bin\Debug\Archiver.exe
+C:\Users\Admin\YandexDisk\3k\OOP\CourseWork\Archiver\Archiver\bin\Debug\Archiver.pdb
+C:\Users\Admin\YandexDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.csprojResolveAssemblyReference.cache
+C:\Users\Admin\YandexDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.Form1.resources
+C:\Users\Admin\YandexDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.Properties.Resources.resources
+C:\Users\Admin\YandexDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.csproj.GenerateResource.Cache
+C:\Users\Admin\YandexDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.exe
+C:\Users\Admin\YandexDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.pdb
+D:\YandexDisk\3k\OOP\CourseWork\Archiver — копия\Archiver\obj\Debug\Archiver.csprojResolveAssemblyReference.cache
+D:\YandexDisk\3k\OOP\CourseWork\Archiver — копия\Archiver\obj\Debug\Archiver.Form1.resources
+D:\YandexDisk\3k\OOP\CourseWork\Archiver — копия\Archiver\obj\Debug\Archiver.Properties.Resources.resources
+D:\YandexDisk\3k\OOP\CourseWork\Archiver — копия\Archiver\obj\Debug\Archiver.csproj.GenerateResource.Cache
+D:\YandexDisk\3k\OOP\CourseWork\Archiver — копия\Archiver\obj\Debug\Archiver.exe
+D:\YandexDisk\3k\OOP\CourseWork\Archiver — копия\Archiver\obj\Debug\Archiver.pdb
+D:\YandexDisk\3k\OOP\CourseWork\Archiver — копия\Archiver\bin\Debug\Archiver.exe.config
+D:\YandexDisk\3k\OOP\CourseWork\Archiver — копия\Archiver\bin\Debug\Archiver.exe
+D:\YandexDisk\3k\OOP\CourseWork\Archiver — копия\Archiver\bin\Debug\Archiver.pdb
+D:\GoogleDisk\3k\OOP\CourseWork\Archiver\Archiver\bin\Debug\Archiver.exe.config
+D:\GoogleDisk\3k\OOP\CourseWork\Archiver\Archiver\bin\Debug\Archiver.exe
+D:\GoogleDisk\3k\OOP\CourseWork\Archiver\Archiver\bin\Debug\Archiver.pdb
+D:\GoogleDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.csprojResolveAssemblyReference.cache
+D:\GoogleDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.Form1.resources
+D:\GoogleDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.Properties.Resources.resources
+D:\GoogleDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.csproj.GenerateResource.Cache
+D:\GoogleDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.csproj.CoreCompileInputs.cache
+D:\GoogleDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.exe
+D:\GoogleDisk\3k\OOP\CourseWork\Archiver\Archiver\obj\Debug\Archiver.pdb
+C:\Users\user\Desktop\Archiver\Archiver\bin\Debug\Archiver.exe.config
+C:\Users\user\Desktop\Archiver\Archiver\bin\Debug\Archiver.exe
+C:\Users\user\Desktop\Archiver\Archiver\bin\Debug\Archiver.pdb
+C:\Users\user\Desktop\Archiver\Archiver\obj\Debug\Archiver.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Archiver\Archiver\obj\Debug\Archiver.Form1.resources
+C:\Users\user\Desktop\Archiver\Archiver\obj\Debug\Archiver.Properties.Resources.resources
+C:\Users\user\Desktop\Archiver\Archiver\obj\Debug\Archiver.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Archiver\Archiver\obj\Debug\Archiver.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Archiver\Archiver\obj\Debug\Archiver.exe
+C:\Users\user\Desktop\Archiver\Archiver\obj\Debug\Archiver.pdb
+C:\Users\Admin\Google Диск\3k\1\OOP\CourseWork\Archiver_last\Archiver\bin\Debug\Archiver.exe.config
+C:\Users\Admin\Google Диск\3k\1\OOP\CourseWork\Archiver_last\Archiver\bin\Debug\Archiver.exe
+C:\Users\Admin\Google Диск\3k\1\OOP\CourseWork\Archiver_last\Archiver\bin\Debug\Archiver.pdb
+C:\Users\Admin\Google Диск\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Google Диск\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.Form1.resources
+C:\Users\Admin\Google Диск\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.Properties.Resources.resources
+C:\Users\Admin\Google Диск\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.csproj.GenerateResource.Cache
+C:\Users\Admin\Google Диск\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Google Диск\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.exe
+C:\Users\Admin\Google Диск\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.pdb
+D:\GoogleDrive\3k\1\OOP\CourseWork\Archiver_last\Archiver\bin\Debug\Archiver.exe.config
+D:\GoogleDrive\3k\1\OOP\CourseWork\Archiver_last\Archiver\bin\Debug\Archiver.exe
+D:\GoogleDrive\3k\1\OOP\CourseWork\Archiver_last\Archiver\bin\Debug\Archiver.pdb
+D:\GoogleDrive\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.Form1.resources
+D:\GoogleDrive\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.Properties.Resources.resources
+D:\GoogleDrive\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.csproj.GenerateResource.Cache
+D:\GoogleDrive\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.exe
+D:\GoogleDrive\3k\1\OOP\CourseWork\Archiver_last\Archiver\obj\Debug\Archiver.pdb
